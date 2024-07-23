@@ -10,6 +10,19 @@
 *.userosscache
 *.sln.docstates
 
+# Docker personal files
+compose.yaml
+README.Docker.md
+Dockerfile
+.dockerignore
+
+# Personal files
+requirements.txt
+config.ini
+
+# Vscode files
+.vscode/
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
